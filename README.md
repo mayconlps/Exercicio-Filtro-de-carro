@@ -17,6 +17,9 @@
    </a>
    
 </p>
+<h1 align="center">     
+  <img alt="Codigo do exercicio feito no VScode" src="./src/assets/foto exercicio_carro.png" /> 
+ </h1>
 
 <h4 align="center"> 
 	🚧 exercicio filtro de carro🚧
